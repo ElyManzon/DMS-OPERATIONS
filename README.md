@@ -1,2 +1,3 @@
 # DMS-OPERATIONS
-https://github.com/ElyManzon/DMS-OPERATIONS.git
+
+https://elymanzon.github.io/DMS-OPERATIONS/
